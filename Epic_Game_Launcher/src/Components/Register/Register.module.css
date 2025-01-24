@@ -1,0 +1,159 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.registercont{
+    /* min-height: 100vh; */
+    height: 100%;
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    background-color: #121212;
+    padding: 50px;
+    flex-wrap: wrap;
+    width: 100%;
+
+}
+
+.constiners{
+  border: 1px solid #5d5c5c;
+ /* width: 100%;
+ max-width: 400px; */
+ background-color: #18181c;
+ color: aliceblue;
+ padding: 40px;
+ border-radius: 30px;
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ justify-content: center;
+ width: 35rem;
+ flex-wrap: wrap;
+}
+.loggo{
+    border: none;
+    height: 3.5rem;
+    width: 4rem;
+    margin-bottom: 40px;
+}
+.h2hh{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+.forr{
+    margin-top: 30px;
+}
+
+.divv2{
+    margin-bottom: 15px;
+}
+.lab{
+    display: block;
+    margin-bottom: 5px;
+    font-size: medium;
+    color: #959596;
+
+}
+
+.sell{
+    width: 28rem;
+    padding: 10px;
+    height: 2.8rem;
+    border-radius: 10px;
+    border: 1px solid #555;
+    background-color: #252529;
+    color: white;
+    font-size: medium;
+}
+
+.divv3{
+    margin-bottom: 15px;
+}
+.lab2{
+    display: block;
+    margin-bottom: 5px;
+    font-size: medium;
+    color: #959596;
+}
+.inp2{
+    width: 28rem;
+    padding: 10px;
+    height: 2.8rem;
+    border-radius: 10px;
+    border: 1px solid #555;
+    background-color: #252529;
+    color: white;
+}
+
+.divv4{
+    display: flex;
+    gap: 10px;
+    margin-bottom: 15px;
+
+}
+.divv5{
+    flex: 1;
+}
+.lab3{
+    display: block;
+    margin-bottom: 5px;
+    font-size: 14px;
+    color: #959596;
+
+}
+.inp3{
+    width: 100%;
+    height: 2.8rem;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid #555;
+    background-color: #252529;
+    color: white;
+    height: 2.8rem;
+
+}
+.divv6{
+    position: relative;
+}
+.spn{
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #aaa;
+    cursor: pointer;
+
+
+}
+
+.divv7{
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+
+}
+
+.inp4{
+    margin-right: 10px;
+}
+
+.lab4{
+    font-size: 14px;
+}
+
+.aa{
+    color: #00aaff;
+    text-decoration: underline;
+    margin-left: 5px;
+}
+.acc{
+    margin-bottom: 30px;
+    color: #aeaeb0;
+    margin-top: 30px;
+}
+.lin{
+    color: #2398cf;
+}

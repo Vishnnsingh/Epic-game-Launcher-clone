@@ -1,0 +1,118 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.datecontainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: #121212;
+    /* padding: 20px; */
+   
+}
+
+.contai{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+
+    flex-wrap: wrap;
+    /* background-color: #18181c; */
+    background-color: #18181c;
+    /* width: 50%; */
+    height: 100%;
+    /* min-height: 100vh; */
+    width: 35rem;
+    border-radius: 35px;
+    padding-top: 25px;
+    padding-bottom: 25px; 
+
+    margin: 4.8%;
+
+}
+
+.imag{
+    border: none;
+    height: 3.5rem; 
+    margin: 35px;
+}
+.hhh1{
+    color: white;
+    margin-bottom: 35px;
+}
+
+.parg{
+    /* border: 1px solid red; */
+    margin-left: 20px ;
+    margin-right: 20px;
+    width: 30rem;
+    font-size: large;
+    word-spacing: normal;
+    line-height: 1.5; display: inline-block;
+    word-wrap: normal;
+    color: #aeaeb0;
+    
+    
+}
+
+.dob{
+    padding-right: 25rem;
+    margin-top: 25px;
+    color: #aeaeb0;
+}
+.selcontainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+.selectdob{
+    margin-top: 6px;
+    width: 9.4rem;
+    height:  3rem;
+    border-radius: 10px;
+    padding: 15px;
+    background-color: #323233 ;
+    color: aliceblue;
+    border: 1px solid #757578;
+    cursor: pointer;
+}
+.selectdob:hover{
+    border: 1px solid #a6a6a9;
+}
+
+.opt{
+    padding: 15px;
+    margin-right: 15px;
+    background-color: transparent ;
+    color: white;
+    /* background: transparent; */
+}
+
+.continue{
+    width: 30rem;
+    height: 3rem;
+    margin: 30px;
+    border-radius: 10px;
+    border: none;
+    color: #171718;
+    font-size: medium;
+    background-color: #5a5a5e;
+}
+.continue:hover{
+    background-color: #2398cf;
+}
+
+.acc{
+    margin-bottom: 30px;
+    color: #aeaeb0;
+}
+.lin{
+    color: #2398cf;
+}
